@@ -8,4 +8,5 @@
 	- Rondkijken op Instagram + eerste foto gemaakt
 	- Pull request i.v.m. gegevens over specialisatie
 12/10:
-	- Tutorial gevolgd op: http://cfg.good.is/challenges/instagram-api	
+	- Tutorial gevolgd op: http://cfg.good.is/challenges/instagram-api
+	- Logboek op GitHub gezet + verwezen naar logboek bestand in pull request	
