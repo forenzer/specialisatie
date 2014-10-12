@@ -1,0 +1,11 @@
+19/09:
+	- Brainstorm over specialisatie. Keuze onderwerp = API Instagram
+	- Tutorials opzoeken: http://cfg.good.is/lessons/instagram-api
+25/09:
+	- Logboek aangemaakt
+	- Instagram installeren op smartphone
+	- Account aanmaken op Instagram
+	- Rondkijken op Instagram + eerste foto gemaakt
+	- Pull request i.v.m. gegevens over specialisatie
+12/10:
+	- Tutorial gevolgd op: http://cfg.good.is/challenges/instagram-api	
