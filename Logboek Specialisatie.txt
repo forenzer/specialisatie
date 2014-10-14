@@ -9,4 +9,8 @@
 	- Pull request i.v.m. gegevens over specialisatie
 12/10:
 	- Tutorial gevolgd op: http://cfg.good.is/challenges/instagram-api
-	- Logboek op GitHub gezet + verwezen naar logboek bestand in pull request	
+	- Informatie over OAuth2.0 opgezocht
+	- Logboek op GitHub gezet + verwezen naar logboek bestand in pull request
+14/10:
+	- Tutorial gevolgd op: http://www.hongkiat.com/blog/instagram-photo-search/
+	- Gespeeld met JSON - objecten en het eindresultaat van de tutorial	
