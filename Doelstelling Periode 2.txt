@@ -12,6 +12,7 @@ Doelstelling Periode 2 op basis van de feedback:
 	- Deel 1, de technische kant (demo?). 
 	- Deel 2, waarom instagram API?
 
-- Een demo maken voor deel 1 om te zien wat er mogelijk is met de API
+- Een demo maken voor deel 1 om te zien wat er mogelijk is met de API (brainstorm!)
 - Instagram - gebruiker interviewen (nuttig?)
-- Facebook vs Instagram
+- Facebook vs Instagram(zeker op inspelen!!!)
+- Meer balls to the wall!
