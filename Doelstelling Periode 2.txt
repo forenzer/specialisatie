@@ -1,0 +1,17 @@
+Analyse feedback:
+
+- Qua scores heb ik voornamelijk gemiddeldes gekregen op de vragen. 
+- Qua commentaren heb ik vooral te horen gekregen dat het technischer mocht, nu leek het 
+  meer op een marktonderzoek. De presentatie - vorm heeft positieve feedback gekregen, het
+  presenteren was warrig (te vroeg in de ochtend? te laat gaan slapen?). Ik moet de link
+  met de afstudeerrichting 'Web' duidelijker maken. 
+
+Doelstelling Periode 2 op basis van de feedback:
+
+- De presentatie in 2 gelijke delen delen: 
+	- Deel 1, de technische kant (demo?). 
+	- Deel 2, waarom instagram API?
+
+- Een demo maken voor deel 1 om te zien wat er mogelijk is met de API
+- Instagram - gebruiker interviewen (nuttig?)
+- Facebook vs Instagram
