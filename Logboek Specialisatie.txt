@@ -26,3 +26,7 @@
 	- Zelf - Analyse feedback P1 + doelstelling voor P2 opgesteld
 	- Idee voor demo: The Great Coke Wars
 	- Logo ontworpen voor demo
+20/11:
+	- Informatie over acces tokens gevonden op: http://codular.com/oauth-authentication-with-instagram
+	- Informatie over OAuth gevonden op: https://www.youtube.com/watch?v=tFYrq3d54Dc
+	- Zitten spelen met user authentication en geprobeerd een access token terug te krijgen
