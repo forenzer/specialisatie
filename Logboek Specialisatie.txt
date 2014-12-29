@@ -43,3 +43,4 @@
 	- Instagram War Basis CSS opgesteld
 	- Benodigde PHP aangemaakt
 	- Eerste succesvolle Ajax - call gemaakt
+	- Tweede succesvolle Ajax - call gemaakt

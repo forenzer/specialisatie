@@ -3,7 +3,7 @@
 - De code haalt de id op uit de volgende URL (enkel de eerste gebruiker):
 	https://api.instagram.com/v1/users/search/?q=txtInput1&access_token=ACCESS_TOKEN
 - De code haalt de info op uit de volgende URL:
-	https://api.instagram.com/v1/users/user_id_previous_step/?access_token=ACCES_TOKEN
+	https://api.instagram.com/v1/users/user_id_previous_step/?access_token=ACCESS_TOKEN
 - Stap 3 & 4 worden opnieuw uitgevoerd voor txtInput2
 - De waardes 'media', 'followed_by' en 'follows', van beide txtInput, worden vergeleken 
   met elkaar
