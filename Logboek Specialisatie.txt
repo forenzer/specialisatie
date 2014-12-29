@@ -41,3 +41,5 @@
 29/12:
 	- Instagram War Basis Html opgesteld
 	- Instagram War Basis CSS opgesteld
+	- Benodigde PHP aangemaakt
+	- Eerste succesvolle Ajax - call gemaakt
