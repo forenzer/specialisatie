@@ -1,0 +1,55 @@
+/* Standaard HTML tags */
+html, body
+{
+    font-family: 'VT323';
+    height: 100%;
+}
+header
+{
+    height: 50px;
+    width: 100%;
+    background: #517fa4;
+}
+h1
+{
+    font-size: 400%;
+}
+label
+{
+    font-size: 200%;
+}
+input
+{
+    font-size: 175%;
+    font-family: 'VT323';
+}
+
+/* Zelfgemaakte klasses en Id's*/
+.headerText, .userInput
+{
+    position: absolute;
+    left: 20%;
+    width: 60%;
+}
+.headerText
+{
+    top: 50px;
+    height: 100px;
+    text-align: center;
+}
+.userInput
+{
+    top: 150px;
+    bottom: 0;
+    padding-top: 2.5%;
+    background: #517fa4;
+}
+.userInput input, .userInput label
+{
+    margin-left: 10%;
+}
+.submit
+{
+    display: block;
+    margin-top: 2.5%;
+}

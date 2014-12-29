@@ -1,0 +1,12 @@
+- Gebruiker opent de site
+- Gebruiker voert in 2 tekstvakken 2 strings in
+- De code haalt de id op uit de volgende URL (enkel de eerste gebruiker):
+	https://api.instagram.com/v1/users/search/?q=txtInput1&access_token=ACCESS_TOKEN
+- De code haalt de info op uit de volgende URL:
+	https://api.instagram.com/v1/users/user_id_previous_step/?access_token=ACCES_TOKEN
+- Stap 3 & 4 worden opnieuw uitgevoerd voor txtInput2
+- De waardes 'media', 'followed_by' en 'follows', van beide txtInput, worden vergeleken 
+  met elkaar
+- Op basis van de waardes worden percentages berekent 
+- Op basis van de percentages gaan er css - balken gemaakt worden (width:%)
+- Winnaar is gelijk aan degene die 2 van de 3 categorieën wint

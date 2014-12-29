@@ -34,4 +34,10 @@
 	- Access Token gekregen d.m.v. client - side authentication 
 	- Gespeeld met verschillende End - Points door data op te halen
 	- instagram.com/developer vergeleken met facebook.com/developer
-	- Idee voor demo aangepast: user zelf 2 merken laten vergelijken (Instagram War) 
+	- Idee voor demo aangepast: user zelf 2 merken laten vergelijken (Instagram War)
+2/12:
+	- Logica Flow 'Instagram War' opgesteld 
+	- Instagram War - Design gemaakt
+29/12:
+	- Instagram War Basis Html opgesteld
+	- Instagram War Basis CSS opgesteld
