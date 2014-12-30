@@ -14,6 +14,11 @@ h1
 {
     font-size: 400%;
 }
+h2
+{
+    font-size: 250%;
+    margin-bottom: 2.5%;
+}
 label
 {
     font-size: 200%;
@@ -34,12 +39,20 @@ input
 .headerText
 {
     top: 50px;
-    height: 100px;
+    height: 200px;
     text-align: center;
+}
+.leftImage
+{
+    float: left;
+}
+.rightImage
+{
+    float: right;
 }
 .userInput
 {
-    top: 150px;
+    top: 275px;
     bottom: 0;
     padding-top: 2.5%;
     background: #517fa4;
@@ -56,4 +69,32 @@ input
 .hidden
 {
     display: none;
+}
+.output
+{
+    width: 80%;
+    margin-left: 10%;
+    height: 100px;
+    color: white;
+}
+.user_output1, .user_output2
+{
+    font-size: 200%;
+}
+.user_output1, .user_output2
+{
+    float: left;
+}
+.user_output1
+{
+    background-color: #ed7f1d;
+}
+.user_output2
+{
+    background-color: #050505;
+    text-align: right;
+}
+.clear
+{
+    clear: both;
 }

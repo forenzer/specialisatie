@@ -16,6 +16,8 @@
         <header></header>
         <div class="headerText">
             <h1>Instagram Wars</h1>
+            <div class="leftImage"></div>
+            <div class="rightImage"></div>
         </div>
         <div class="userInput">
             <p class="hidden" id="user_input1">
@@ -33,6 +35,28 @@
                     echo($hddn);
                 ?>
             </p>
+            <div class="media output">
+                <h2>Media:</h2>
+                <div class="container" id="media">
+                    <div class="user_output1 media"></div>
+                    <div class="user_output2 media"></div>
+                </div>
+            </div>
+            <div class="followed_by output">
+                <h2>Followed By:</h2>
+                <div class="container" id="followed">
+                    <div class="user_output1 followed"></div>
+                    <div class="user_output2 followed"></div>
+                </div>
+            </div>
+            <div class="follows output">
+                <h2>Follows:</h2>
+                <div class="container" id="follows">
+                    <div class="user_output1 follows"></div>
+                    <div class="user_output2 follows"></div>
+                </div>
+            </div>
+            <div class="clear"></div>
         </div>
         
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
