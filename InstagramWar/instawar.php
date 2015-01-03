@@ -42,18 +42,18 @@
                     <div class="user_output2 media"></div>
                 </div>
             </div>
-            <div class="followed_by output">
-                <h2>Followed By:</h2>
-                <div class="container" id="followed">
-                    <div class="user_output1 followed"></div>
-                    <div class="user_output2 followed"></div>
-                </div>
-            </div>
             <div class="follows output">
                 <h2>Follows:</h2>
                 <div class="container" id="follows">
                     <div class="user_output1 follows"></div>
                     <div class="user_output2 follows"></div>
+                </div>
+            </div>
+            <div class="followed_by output">
+                <h2>Followed By:</h2>
+                <div class="container" id="followed">
+                    <div class="user_output1 followed"></div>
+                    <div class="user_output2 followed"></div>
                 </div>
             </div>
             <div class="clear"></div>

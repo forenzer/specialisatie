@@ -47,3 +47,5 @@
 30/12:
 	- Juiste Ajax - gegevens opgehaald voor Instagram Wars
 	- Visuele output gemaakt d.m.v. CSS en JQuery
+3/01:
+	- Fout met verkeerde waardes opgelost d.m.v. waardes te vergelijken

@@ -66,27 +66,27 @@ $(document).ready(function()
                     $(".leftImage").append('<img src="' + $user1[3] + '" />');
                     $(".rightImage").append('<img src="' + $user2[3] + '" />');
                     
-                    $percentage_media_user1 = 100 / $totalMedia * $user1[2];
-                    $percentage_media_user2 = 100 / $totalMedia * $user2[2];
-                    $percentage_followed_by_user1 = 100 / $totalFollowedBy * $user1[1];
-                    $percentage_followed_by_user2 = 100 / $totalFollowedBy * $user2[1];
-                    $percentage_follows_user1 = 100 / $totalFollows * $user1[0];
-                    $percentage_follows_user2 = 100 / $totalFollows * $user2[0];
+                    $percentage_media_user1 = Math.round(100 / $totalMedia * $user1[2]);
+                    $percentage_media_user2 = Math.round(100 / $totalMedia * $user2[2]);
+                    $percentage_followed_by_user1 = Math.round(100 / $totalFollowedBy * $user1[1]);
+                    $percentage_followed_by_user2 = Math.round(100 / $totalFollowedBy * $user2[1]);
+                    $percentage_follows_user1 = Math.round(100 / $totalFollows * $user1[0]);
+                    $percentage_follows_user2 = Math.round(100 / $totalFollows * $user2[0]);
                     
                     $("#media .user_output1").append('<p>'+$user1[2]+'</p>');
                     $("#media .user_output2").append('<p>'+$user2[2]+'</p>');
                     $("#media .user_output1").css("width", $percentage_media_user1 + "%");
                     $("#media .user_output2").css("width", $percentage_media_user2 + "%");
                     
-                    $("#followed .user_output1").append('<p>'+$user1[0]+'</p>');
-                    $("#followed .user_output2").append('<p>'+$user2[0]+'</p>');
-                    $("#followed .user_output1").css("width", $percentage_followed_by_user1 + "%");
-                    $("#followed .user_output2").css("width", $percentage_followed_by_user2 + "%");
-                    
                     $("#follows .user_output1").append('<p>'+$user1[1]+'</p>');
                     $("#follows .user_output2").append('<p>'+$user2[1]+'</p>');
-                    $("#follows .user_output1").css("width", $percentage_follows_user1 + "%");
-                    $("#follows .user_output2").css("width", $percentage_follows_user2 + "%");
+                    $("#follows .user_output1").css("width", $percentage_followed_by_user1 + "%");
+                    $("#follows .user_output2").css("width", $percentage_followed_by_user2 + "%");
+                    
+                    $("#followed .user_output1").append('<p>'+$user1[0]+'</p>');
+                    $("#followed .user_output2").append('<p>'+$user2[0]+'</p>');
+                    $("#followed .user_output1").css("width", $percentage_follows_user1 + "%");
+                    $("#followed .user_output2").css("width", $percentage_follows_user2 + "%");
                 }
             }
         });
