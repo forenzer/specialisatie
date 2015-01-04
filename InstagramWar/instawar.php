@@ -56,6 +56,10 @@
                     <div class="user_output2 followed"></div>
                 </div>
             </div>
+            <div class="winner output">
+                <h2>Winner: </h2>
+                <p><a href="index.php">Back</a></p>
+            </div>
             <div class="clear"></div>
         </div>
         

@@ -53,15 +53,22 @@ $(document).ready(function()
                     $user.push(oValue.counts.follows);
                     $user.push(oValue.counts.media);
                     $user.push(oValue.profile_picture);
+                    $user.push(oValue.full_name);
                     
                     if($count > 0){break;}
                 }
                 
                 if($user1.length > 0 && $user2.length > 0)
                 {
+                    $count_1 = 0;
+                    $count_2 = 0;
                     $totalMedia = $user1[2] + $user2[2];
                     $totalFollowedBy = $user1[1] + $user2[1]; //Het totaal aantal mensen die 1 van de 2 accounts volgt
                     $totalFollows = $user1[0] + $user2[0]; // Het totaal van het aantal mensen gevolgd door 1 van de 2 accounts
+                    
+                    $user1[0] > $user2[0] ? $count_1++ : $count_2++;
+                    $user1[1] > $user2[1] ? $count_1++ : $count_2++;
+                    $user1[2] > $user2[2] ? $count_1++ : $count_2++;
                     
                     $(".leftImage").append('<img src="' + $user1[3] + '" />');
                     $(".rightImage").append('<img src="' + $user2[3] + '" />');
@@ -87,6 +94,15 @@ $(document).ready(function()
                     $("#followed .user_output2").append('<p>'+$user2[0]+'</p>');
                     $("#followed .user_output1").css("width", $percentage_follows_user1 + "%");
                     $("#followed .user_output2").css("width", $percentage_follows_user2 + "%");
+                    
+                    if($count_1 > $count_2)
+                    {
+                        $(".winner h2").append($user1[4]);
+                    }
+                    else
+                    {
+                        $(".winner h2").append($user2[4]);
+                    }
                 }
             }
         });

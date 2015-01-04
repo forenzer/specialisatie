@@ -49,3 +49,5 @@
 	- Visuele output gemaakt d.m.v. CSS en JQuery
 3/01:
 	- Fout met verkeerde waardes opgelost d.m.v. waardes te vergelijken
+4/01:
+	- Instagram War afgewerkt (winnaar bekend gemaakt & een link terug geplaatst)
