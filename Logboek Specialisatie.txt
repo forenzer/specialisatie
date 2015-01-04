@@ -52,6 +52,7 @@
 4/01:
 	- Instagram War afgewerkt (winnaar bekend gemaakt & een link terug geplaatst)
 	- Bronnen toegevoegd aan logboek
+	- Verslag geschreven
 
 Bronnen:
 	- http://www.businessinsider.com/instagram-demographics-2013-12
@@ -62,5 +63,7 @@ Bronnen:
 	- http://www.peoplesphere.be/nl/art/3243/belgie-telt-52-miljoen-gebruikers-van-sociale-netwerken
 	- http://aardling.com/tim-van-damme-belgische-instagram-miljonair/
 	- http://www.hongkiat.com/blog/instagram-photo-search/
+	- http://list.totems.co/
 	- http://instagram.com/developer/#
 	- https://developers.facebook.com/
+	- http://nl.wikipedia.org/wiki/Application_programming_interface
