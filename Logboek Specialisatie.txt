@@ -51,3 +51,16 @@
 	- Fout met verkeerde waardes opgelost d.m.v. waardes te vergelijken
 4/01:
 	- Instagram War afgewerkt (winnaar bekend gemaakt & een link terug geplaatst)
+	- Bronnen toegevoegd aan logboek
+
+Bronnen:
+	- http://www.businessinsider.com/instagram-demographics-2013-12
+	- http://en.wikipedia.org/wiki/Instagram 
+	- http://jennstrends.com/instagram-statistics-for-2014/
+	- http://www.shoot.be/art/152326/selfie-is-woord-van-het-jaar/?webSyncID=680daba9-0d68-d864-4869-39ac4d326ca1&sessionGUID=2e1e4ac1-d32d-79a0-c646-44117db34da1
+	- http://bvlg.blogspot.be/2014/03/belgian-social-media-monitor-maart-2014.html
+	- http://www.peoplesphere.be/nl/art/3243/belgie-telt-52-miljoen-gebruikers-van-sociale-netwerken
+	- http://aardling.com/tim-van-damme-belgische-instagram-miljonair/
+	- http://www.hongkiat.com/blog/instagram-photo-search/
+	- http://instagram.com/developer/#
+	- https://developers.facebook.com/
